@@ -25,7 +25,7 @@ gem 'redis-rails', '~> 4.0'
 gem 'redis-namespace'
 
 # TODO: remove version requirement on r3 upgrade
-gem 'acts_as_list', '~> 0.8'
+gem 'acts_as_list', '= 0.8.2'
 
 gem 'rails_autolink'
 
